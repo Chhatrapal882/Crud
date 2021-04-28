@@ -1,0 +1,9 @@
+.cardVal{
+    /* border-top:3px solid red !important; */
+}
+.task-container{
+    background-color: #E9ffE6 ;
+    display:flex;
+    flex-wrap: wrap;
+}
+
